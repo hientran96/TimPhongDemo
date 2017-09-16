@@ -1,0 +1,16 @@
+
+form{
+	margin:auto;
+	width: 340px;
+}
+.login{
+	margin-top: 30px;
+	margin-left: 30%;
+	border-radius: 5px;
+	width: 	500px;
+	background: white;
+}
+.bnt{ 
+	margin-top: 10px;
+	width: 180px;
+}
